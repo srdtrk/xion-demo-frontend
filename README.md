@@ -1,3 +1,8 @@
+## Description
+
+This is a [Next.js](https://nextjs.org/) project extracted from [xion.js](https://github.com/burnt-labs/xion.js) by removing local dependencies to be used as a template for new projects.
+It demonstrates how to use xion's account abstraction to create a simple frontend for a user to interact with a smart contract.
+
 ## Getting Started
 
 First, run the development server:
